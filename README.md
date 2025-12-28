@@ -10,3 +10,4 @@ This is the repository of the práctical work II.
 - Discovered the topic in wich the work has to be made and fixed it.
 - Finished the degree and contact pages.
 - Finished the topic and about pages.
+- Fixed the website descrition when you hover over the link.
