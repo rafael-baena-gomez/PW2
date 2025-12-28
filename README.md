@@ -15,3 +15,4 @@ This is the repository of the práctical work II.
 - Added the FCE page.
 - Added the link to acces the README file.
 - Added the last link to the net page and created the log file.
+- Fixed the about page by adding the last two pictures.
