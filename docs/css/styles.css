@@ -69,7 +69,7 @@ nav a:hover {
 }
 
 /* =========================
-   HERO / INTRO
+   INTRO
 ========================= */
 .content {
   margin-top: 80px;
@@ -273,6 +273,31 @@ button:hover {
     background-color: #680303;
 }
 
+/* =========================
+   Net
+========================= */
 
+button.net-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
 
+button.net-button img {
+    width: 300px;
+    transition: filter 0.3s ease;
+}
 
+button.net-button:hover img {
+    border: #680303;
+    border-radius: 30%;
+    filter: brightness(0.8);
+}
+
+.news-content h1 {
+  font-size: 30px;
+  font-weight: normal;
+  color: #f71414;
+  text-decoration: underline;
+}
