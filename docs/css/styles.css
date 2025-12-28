@@ -301,3 +301,17 @@ button.net-button:hover img {
   color: #f71414;
   text-decoration: underline;
 }
+
+/* =========================
+   Topic
+========================= */
+
+.profile-img-wrapper {
+  display: flex;
+  gap: 15px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
