@@ -11,3 +11,4 @@ This is the repository of the práctical work II.
 - Finished the degree and contact pages.
 - Finished the topic and about pages.
 - Fixed the website descrition when you hover over the link.
+- Added my classmate's webs and fixed the background of my website.
